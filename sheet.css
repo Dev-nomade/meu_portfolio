@@ -1,0 +1,46 @@
+div {
+    background-color: lightgrey;
+    width: 800px;
+    border:solid green 15px;
+    padding: 55px;
+    margin: 80px;
+}
+
+.card1 {
+    background-color: orange;
+    width: 450px;
+    border: solid red 30px;
+    padding: 40px;
+    margin: 60px;
+    
+}
+
+img {
+padding: center;
+margin: 50px;
+background-color: darkblue;
+color: lightblue;
+border: solid pink 75px;
+width: 50px
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
